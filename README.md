@@ -9,7 +9,7 @@ A curated collection of recommendation system projects for diverse domains, incl
    - **Objective**: Detect crop diseases and predict yield using machine learning.  
    - **Techniques**: Image Classification, Regression Models  
    - **Domain**: Agriculture  
-   - **Folder**: [`Crop Disease Detection and Yield Prediction`](./crop-disease-yield-prediction)  
+   - **Folder**: [`Crop Disease Detection and Yield Prediction`](https://github.com/SohamNarsale/Recommendation-Systems/tree/main/Crop%20Disease%20Detection%20and%20Yield%20Prediction)  
 
 ---
 
@@ -17,7 +17,7 @@ A curated collection of recommendation system projects for diverse domains, incl
    - **Objective**: Recommend movies based on user preferences using metadata.  
    - **Techniques**: TF-IDF, Cosine Similarity  
    - **Domain**: Entertainment  
-   - **Folder**: [`content-based-movie-recommender`](./content-based-movie-recommender)  
+   - **Folder**: [`Content-Based Movie Recommendation System`](https://github.com/SohamNarsale/Recommendation-Systems/tree/main/Content-Based%20Movie%20Recommendation%20System)  
 
 ---
 
@@ -25,7 +25,7 @@ A curated collection of recommendation system projects for diverse domains, incl
    - **Objective**: Use collaborative and content-based filtering for movie ratings.  
    - **Techniques**: Matrix Factorization, Hybrid Filtering  
    - **Domain**: Entertainment  
-   - **Folder**: [`hybrid-movie-rating-recommender`](./hybrid-movie-rating-recommender)  
+   - **Folder**: [`Hybrid Movie Rating Recommender System`](https://github.com/SohamNarsale/Recommendation-Systems/tree/main/Hybrid%20Movie%20Rating%20Recommender%20System)  
 
 ---
 
@@ -33,7 +33,7 @@ A curated collection of recommendation system projects for diverse domains, incl
    - **Objective**: Predict prognosis for breast cancer patients using recommendation techniques.  
    - **Techniques**: Classification, Decision Trees  
    - **Domain**: Healthcare  
-   - **Folder**: [`breast-cancer-prognosis-recommender`](./breast-cancer-prognosis-recommender)  
+   - **Folder**: [`Recommendation System for Breast Cancer Prognosis`](https://github.com/SohamNarsale/Recommendation-Systems/tree/main/Recommendation%20System%20for%20Breast%20Cancer%20Prognosis)  
 
 ---
 
@@ -41,8 +41,7 @@ A curated collection of recommendation system projects for diverse domains, incl
    - **Objective**: Enhance product recommendations using Matrix Factorization.  
    - **Techniques**: Singular Value Decomposition  
    - **Domain**: E-commerce  
-   - **Folder**: [`ecommerce-matrix-factorization`](./ecommerce-matrix-factorization)  
----
+   - **Folder**: [`E-commerce Recommendation System using Matrix Factorization`](https://github.com/SohamNarsale/Recommendation-Systems/tree/main/E-commerce%20Recommendation%20System%20using%20Matrix%20Factorization)  ---
 
 ## How to Run  
 
